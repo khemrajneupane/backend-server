@@ -1,0 +1,203 @@
+{
+    "items":[
+        {
+            "id":"1",
+            "name":"Long Skirt",
+            "category":"Skirt",
+            "image":"/assets/dress.jpg",
+            "price":200,
+            "brand":"Merimekko",
+            "rating":5,
+            "numReviews":400,
+            "stockCount":0
+          },
+          {
+            "id":"2",
+            "name":"Branded Shirt",
+            "category":"Shirts",
+            "image":"/assets/dress.jpg",
+            "price":80,
+            "brand":"Guess",
+            "rating":3.2,
+            "numReviews":15,
+            "stockCount":4
+          },
+          {
+            "id":"3",
+            "name":"Stone wash",
+            "category":"Pants",
+            "image":"/assets/dress.jpg",
+            "price":100,
+            "brand":"Nike",
+            "rating":5,
+            "numReviews":100,
+            "stockCount":9
+          },
+          {
+            "id":"4",
+            "name":"Monkey wash",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Boss",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":10
+          },
+          {
+            "id":"5",
+            "name":"Hand Bag",
+            "category":"Bag",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Luis Vuitton",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":17
+          },
+          {
+            "id":"6",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Gucci",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":30
+          },
+          {
+            "id":"7",
+            "name":"Mini Skirts",
+            "category":"Skirt",
+            "image":"/assets/dress.jpg",
+            "price":200,
+            "brand":"Versac",
+            "rating":5,
+            "numReviews":400,
+            "stockCount":60
+          },
+          {
+            "id":"8",
+            "name":"Sleevless dress",
+            "category":"T-Shirts",
+            "image":"/assets/dress.jpg",
+            "price":80,
+            "brand":"Hermes",
+            "rating":3.2,
+            "numReviews":15,
+            "stockCount":70
+          },
+          {
+            "id":"9",
+            "name":"Red dress",
+            "category":"Pants",
+            "image":"/assets/dress.jpg",
+            "price":100,
+            "brand":"Prada",
+            "rating":5,
+            "numReviews":100,
+            "stockCount":13
+          },
+          {
+            "id":"10",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Burberry",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":22
+          },
+          {
+            "id":"11",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Cartier",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":18
+          },
+          {
+            "id":"12",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"H&M",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":21
+          },
+          {
+            "id":"13",
+            "name":"White Gown",
+            "category":"Skirt",
+            "image":"/assets/dress.jpg",
+            "price":200,
+            "brand":"Chanel",
+            "rating":5,
+            "numReviews":400,
+            "stockCount":23
+          },
+          {
+            "id":"14",
+            "name":"Short dress",
+            "category":"Shirts",
+            "image":"/assets/dress.jpg",
+            "price":80,
+            "brand":"Swarovski",
+            "rating":3.2,
+            "numReviews":15,
+            "stockCount":66
+          },
+          {
+            "id":"15",
+            "name":"Red dress",
+            "category":"Pants",
+            "image":"/assets/dress.jpg",
+            "price":100,
+            "brand":"Tom Ford",
+            "rating":5,
+            "numReviews":100,
+            "stockCount":1
+          },
+          {
+            "id":"16",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Michael Kors",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":55
+          },
+          {
+            "id":"17",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"TJ Max",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":32
+          },
+          {
+            "id":"18",
+            "name":"Pink dress",
+            "category":"Trousers",
+            "image":"/assets/dress.jpg",
+            "price":60,
+            "brand":"Levi's",
+            "rating":4.5,
+            "numReviews":200,
+            "stockCount":40
+          }
+          
+    ]
+}
