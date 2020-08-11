@@ -14,6 +14,6 @@
 -   npm install (installs all depenecies)
 -   Run locally: ```node index.js```
 -   Check, get all items:  [all items](http://localhost:3001/api/items)
--   Check, get all items by id:  [all items](http://localhost:3001/api/items/7)
--   Check, get downloaded pdf:  [all items](http://localhost:3001/api/fetch-pdf)
+-   Check, get all items by id:  [items by id](http://localhost:3001/api/items/7)
+-   Check, get downloaded pdf:  [pdf receipt](http://localhost:3001/api/fetch-pdf)
 
