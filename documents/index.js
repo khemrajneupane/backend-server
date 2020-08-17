@@ -86,7 +86,7 @@ return `
                    <td colspan="2">
                       <table>
                          <tr>
-                            <td class="title"><img  src="https://i2.wp.com/cleverlogos.co/wp-content/uploads/2018/05/reciepthound_1.jpg?fit=800%2C600&ssl=1"
+                            <td class="title"><img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ57Zd6bSaW2nzBgjsWZh7tNpA7VmnMQzlgjg&usqp=CAU"
                                style="width:100%; max-width:156px;"></td>
                             <td>
                                Purchased Date: ${`${today.getDate()}. ${today.getMonth() + 1}. ${today.getFullYear()}.`}
